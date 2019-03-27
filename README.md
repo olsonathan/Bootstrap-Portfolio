@@ -1,3 +1,3 @@
-# Bootstrap-Portfolio
+# Portfolio
 
-https://olsonathan.github.io/Bootstrap-Portfolio/
+https://olsonathan.github.io/Portfolio/
